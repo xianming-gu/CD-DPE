@@ -15,7 +15,7 @@ Maastricht University, 6200 MD Maastricht, the Netherlands
 
 -*[Email]*: [xianming_gu@foxmail.com](mailto:xianming_gu@foxmail.com) (Xianming Gu)
 
--*[Supplementary Materials]*: [TBD]
+-[*[Supplementary Materials]*:][: (https://github.com/xianming-gu/CD-DPE/blob/main/Supplementary-material/Supplementary-material.pdf)
 
 ## Citation
 
