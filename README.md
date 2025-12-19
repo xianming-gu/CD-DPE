@@ -1,6 +1,6 @@
 # [AAAI 2026] CD-DPE: Dual-Prompt Expert Network based on Convolutional Dictionary Feature Decoupling for Multi-Contrast MRI Super-Resolution
 
-Xianming Gu<sup>1</sup>, Lihui Wang<sup>1,∗</sup>, Ying Cao<sup>1</sup>, Zeyu Deng<sup>1</sup>, Yingfeng Ou<sup>a</sup>, Guodong Hu<sup>a</sup> and Yi Chen<sup>1,2</sup>
+Xianming Gu<sup>1</sup>, Lihui Wang<sup>1,∗</sup>, Ying Cao<sup>1</sup>, Zeyu Deng<sup>1</sup>, Yingfeng Ou<sup>1</sup>, Guodong Hu<sup>1</sup> and Yi Chen<sup>1,2</sup>
 
 <sup>1</sup> Key Laboratory of Advanced Medical Imaging and Intelligent Computing of Guizhou Province,
 Engineering Research Center of Text Computing & Cognitive Intelligence, Ministry of Education,
