@@ -11,7 +11,7 @@ Maastricht University, 6200 MD Maastricht, the Netherlands
 
 <sup>*</sup> Corresponding author.
 
--*[Paper]*: [[arxiv]](https://arxiv.org/abs/2511.14014), [AAAI-TBD]
+-*[Paper]*: [[arxiv]](https://arxiv.org/abs/2511.14014), [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/42430)
 
 -*[Email]*: [xianming_gu@foxmail.com](mailto:xianming_gu@foxmail.com) (Xianming Gu)
 
