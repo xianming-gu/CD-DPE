@@ -21,11 +21,14 @@ Maastricht University, 6200 MD Maastricht, the Netherlands
 ## Citation
 
 ```
-@article{gu2025cd,
-  title={CD-DPE: Dual-Prompt Expert Network based on Convolutional Dictionary Feature Decoupling for Multi-Contrast MRI Super-Resolution},
+@inproceedings{gu2026cd,
+  title={CD-DPE: Dual-Prompt Expert Network Based on Convolutional Dictionary Feature Decoupling for Multi-Contrast MRI Super-Resolution},
   author={Gu, Xianming and Wang, Lihui and Cao, Ying and Deng, Zeyu and Ou, Yingfeng and Hu, Guodong and Chen, Yi},
-  journal={arXiv preprint arXiv:2511.14014},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={6},
+  pages={4329--4338},
+  year={2026}
 }
 ```
 
