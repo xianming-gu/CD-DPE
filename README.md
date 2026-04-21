@@ -94,7 +94,7 @@ and the results is available in ``'./result/'``.
 
 <img src="image//framework.png" width="90%" align=center />
 
-<img src="image//DP-FFEM.png" width="70%" align=center />
+<img src="image//DP-FFEM.png" width="60%" align=center />
 
 ### Qualitative super-resolution results.
 
@@ -104,12 +104,12 @@ and the results is available in ``'./result/'``.
 
 ### Ablation studies results.
 
-<img src="image//ablation1.png" width="90%" align=center />
+<img src="image//ablation1.png" width="60%" align=center />
 
-<img src="image//ablation2.png" width="90%" align=center />
+<img src="image//ablation2.png" width="60%" align=center />
 
-<img src="image//ablation3.png" width="90%" align=center />
+<img src="image//ablation3.png" width="60%" align=center />
 
 ### Generation studies results.
 
-<img src="image//generation.png" width="90%" align=center />
+<img src="image//generation.png" width="60%" align=center />
